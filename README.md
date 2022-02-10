@@ -15,3 +15,6 @@ It works just like the version from 9Front, so check their man page for detials.
 
 On my Raspberry Pi, to run it; 
 aux/☭psfs -d /dev/eia0 -b 9600
+
+for more info
+https://youtu.be/Ij-J1xbVzfU
